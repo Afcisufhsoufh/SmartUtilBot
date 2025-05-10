@@ -154,7 +154,7 @@ Follow these steps to set up and deploy **SmartUtilBot**:
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/TheSmartDevs/SmartUtilBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/Afcisufhsoufh/SmartUtilBot)
 
 ### Heroku Deployment Tutorial
 
